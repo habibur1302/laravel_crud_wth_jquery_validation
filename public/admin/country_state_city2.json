@@ -1,0 +1,137 @@
+[
+ {
+  "id":"DHAKA",
+  "name":"DHAKA",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"BARISAL",
+  "name":"BARISAL",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"KHULNA",
+  "name":"KHULNA",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"Dhaka District",
+  "name":"Dhaka District",
+  "parent_id":"DHAKA"
+ }, 
+ {
+  "id":"Gazipur District",
+  "name":"Gazipur District",
+  "parent_id":"DHAKA"
+ }, 
+ {
+  "id":"Kishoreganj Distric",
+  "name":"Kishoreganj District",
+  "parent_id":"DHAKA"
+ }, 
+ {
+  "id":"Ontario",
+  "name":"Ontario",
+  "parent_id":"BARISAL"
+ }, 
+ {
+  "id":"British Columbia",
+  "name":"British Columbia",
+  "parent_id":"BARISAL"
+ }, 
+ {
+  "id":"New South Wales",
+  "name":"New South Wales",
+  "parent_id":"KHULNA"
+ }, 
+ {
+  "id":"Queensland",
+  "name":"Queensland",
+  "parent_id":"KHULNA"
+ }, 
+ {
+  "id":"Dhamrai Upazila",
+  "name":"Dhamrai Upazila",
+  "parent_id":"Dhaka District"
+ }, 
+ {
+  "id":"Dohar Upazila",
+  "name":"Dohar Upazila",
+  "parent_id":"Dhaka District"
+ }, 
+ {
+  "id":"Keraniganj Upazila",
+  "name":"Keraniganj Upazila",
+  "parent_id":"Dhaka District"
+ }, 
+ {
+  "id":"Gazipur Sadar Upazila",
+  "name":"Gazipur Sadar Upazila",
+  "parent_id":"Gazipur District"
+ }, 
+ {
+  "id":"Kaliakair Upazila",
+  "name":"Kaliakair Upazila",
+  "parent_id":"Gazipur District"
+ }, 
+ {
+  "id":"Kapasia Upazila",
+  "name":"Kapasia Upazila",
+  "parent_id":"Gazipur District"
+ }, 
+ {
+  "id":"Kuliarchar Upazila",
+  "name":"Kuliarchar Upazila",
+  "parent_id":"Gazipur District"
+ }, 
+ {
+  "id":"Hossainpur Upazila",
+  "name":"Hossainpur Upazila",
+  "parent_id":"Kishoreganj Distric"
+ }, 
+ {
+  "id":"Pakundia Upazila",
+  "name":"Pakundia Upazila",
+  "parent_id":"Kishoreganj Distric"
+ }, 
+ {
+  "id":"Toronto",
+  "name":"Toronto",
+  "parent_id":"Ontario"
+ }, 
+ {
+  "id":"Ottawa",
+  "name":"Ottawa",
+  "parent_id":"Ontario"
+ }, 
+ {
+  "id":"Vancouver",
+  "name":"Vancouver",
+  "parent_id":"British Columbia"
+ }, 
+ {
+  "id":"Victoria",
+  "name":"Victoria",
+  "parent_id":"British Columbia"
+ }, 
+ {
+  "id":"Sydney",
+  "name":"Sydney",
+  "parent_id":"New South Wales"
+ }, 
+ {
+  "id":"Newcastle",
+  "name":"Newcastle",
+  "parent_id":"New South Wales"
+ }, 
+ {
+  "id":"City of Brisbane",
+  "name":"City of Brisbane",
+  "parent_id":"Queensland"
+ }, 
+ {
+  "id":"Gold Coast",
+  "name":"Gold Coast",
+  "parent_id":"Queensland"
+ }
+]
